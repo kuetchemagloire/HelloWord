@@ -1,2 +1,1 @@
-# HelloWord
-repository for the course of data scientist
+## This is a markdown file
